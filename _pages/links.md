@@ -4,6 +4,8 @@ excerpt: "Staked Plains resources and links"
 permalink: /links/
 ---
 
+![Decorative Image](/images/gallery/section_5.jpg)
+
 ## DISPOSSESSION AND ITS DISCONTENTS
 
 ### [Welcome to _Then & Now_: Bob Spiegelman’s Web Trilogy](http://www.thenandnow.us/)
@@ -12,6 +14,8 @@ permalink: /links/
   - [Staked Plains](http://www.stakedplains.com)
 
 ***
+
+![Decorative Image](/images/gallery/section_6.jpg)
 
 ### RESOURCES & LINKS
 #### "COWBOYS & INDIANS" ~ OUR _LIVING_ LEGACY
@@ -33,3 +37,7 @@ permalink: /links/
   - [A Cheyenne Captive at the Smithsonian Institute](http://web.archive.org/web/20090405043727/http://www.nmnh.si.edu/naa/squint_eyes/squint_eyes.htm)  
   - [Ode to "Open Plains Ranching"](http://web.archive.org/web/20090405043727/http://www.cartermuseum.org/collections/smith/collection.php?mcat=6&scat=16)  
     - Erwin E. Smith's stunning photo albums of JA ranch life (1906).
+
+## Related Websites
+  - [American Indian Law Alliance](https://aila.ngo)
+  - [Indigenous Values Initiative](https://indigenousvalues.org)

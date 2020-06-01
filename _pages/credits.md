@@ -3,6 +3,9 @@ title: "Credits"
 excerpt: "Thanks to everyone who makes this project successful"
 permalink: /credits/
 ---
+
+![Decorative Image](/images/gallery/section_3.jpg)
+
 ## Updated Site by:
   - Robert Spiegelman
   - Hosted by [Indigenous Values Initiative](https://indigenousvalues.org/)
@@ -10,6 +13,8 @@ permalink: /credits/
   - Supported by [Indigenous Values Initiative](https://indigenousvalues.org/) and [American Indian Law Alliance](https://aila.ngo)
 
 ## Content Credits
+
+![Decorative Image](/images/gallery/section_4.jpg)
 
 ### My Education, with special thanks to:
 
