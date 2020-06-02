@@ -4,7 +4,7 @@ excerpt: "Where and how our fates are linked"
 categories:
   - gallery
 header:
-  teaser: /images/thumbs/14_t.jpg
+  teaser: /images/thumbs/114_t.jpg
   image: /images/14.jpg
 gallery:
   - url: /images/156.jpg
@@ -20,7 +20,7 @@ gallery:
     alt: "Relentless"
     title: "Relentless"
   - url: /images/14.jpg
-    image_path: /images/thumbs/14_t.jpg
+    image_path: /images/thumbs/114_t.jpg
     alt: "A Cottage Near Glenveagh"
     title: "A Cottage Near Glenveagh"
   - url: /images/41.jpg

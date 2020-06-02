@@ -1,7 +1,8 @@
 ---
 title: "About"
 excerpt: "America’s first Gilded Age rose from the Depression of 1873-1874. Just then, two wealthy Victorians - Ireland’s John George Adair and his American wife, Cornelia Wadsworth set sail from Ireland to NY, to begin a Wild West safari."
-permalink: /home/
+permalink: /about/
+redirect_from: /mission/
 ---
 ## Mission Statement
 
